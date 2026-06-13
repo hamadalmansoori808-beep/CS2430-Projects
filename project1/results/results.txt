@@ -1,1 +1,24 @@
+Programming Project 1 Results
 
+Array Size: 4
+
+Merge Sort Comparisons: 4
+Quick Sort Comparisons: 6
+Heap Sort Comparisons: 7
+Shaker Sort Comparisons: 6
+
+
+Array Size: 6
+
+Merge Sort Comparisons: 10
+Quick Sort Comparisons: 14
+Heap Sort Comparisons: 15
+Shaker Sort Comparisons: 15
+
+
+Array Size: 8
+
+Merge Sort Comparisons: 16
+Quick Sort Comparisons: 24
+Heap Sort Comparisons: 27
+Shaker Sort Comparisons: 28
