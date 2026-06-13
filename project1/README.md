@@ -1,10 +1,20 @@
+# Programming Project 1
+
 Language: Python 3
 
-How to Run:
+Run:
+
 python main.py
 
 Files:
-main.py - main program
 
-Description:
-Compares Merge Sort, Quick Sort, Heap Sort, and Shaker Sort.
+main.py - Sorting algorithm comparison program
+
+Algorithms:
+
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Shaker Sort
+
+The program generates arrays of size 4, 6, and 8 and compares sorting algorithms using comparison counts.
