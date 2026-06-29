@@ -1,9 +1,8 @@
 """
-Name: Your Name
+Name: hamad almansoori
 Course: CS 2430
-Section: Your Section
 Project: Programming Project 2
-Semester: Your Semester
+Semester: Summer 2026
 
 File Purpose:
 Main program for Programming Project 2.
