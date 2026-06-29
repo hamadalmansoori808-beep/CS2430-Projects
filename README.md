@@ -4,14 +4,25 @@ Name: Hamad Almansoori
 Course: CS2430
 Semester: Summer 2026
 
-This repository is used to organize and store all work for Projects 1–4.
+## Programming Language
 
-Project 0 is a repository setup and research assignment. Future programming projects will be added as the semester progresses.
+Python 3.12
 
-## Repository Structure
+## Files
 
-project1/
-project2/
-project3/
-project4/
-docs/
+main.py
+Runs the entire project.
+
+set_operations.py
+Implements ordinary set operations.
+
+multiset_operations.py
+Implements multiset operations.
+
+## Run
+
+python main.py
+
+## Requirements
+
+Python 3
