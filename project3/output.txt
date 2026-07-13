@@ -1,0 +1,145 @@
+======================================================================
+CS2430 PROGRAMMING PROJECT 3
+THE KNAPSACK PROBLEM
+======================================================================
+
+Total Experiments: 12
+Maximum Weight: 700 kg
+
+============================================================
+GREEDY STRATEGY 1 - HIGHEST RATING
+============================================================
+Experiment                         Weight     Rating
+------------------------------------------------------------
+Solar Flares                          264          9
+Micrometeorites                       170          9
+Binary Stars                          203          8
+Cloud Patterns                         36          5
+Seed Viability                          7          4
+------------------------------------------------------------
+Total Weight : 680 kg
+Total Rating : 35
+
+============================================================
+GREEDY STRATEGY 2 - LIGHTEST WEIGHT
+============================================================
+Experiment                         Weight     Rating
+------------------------------------------------------------
+Seed Viability                          7          4
+Yeast Fermentation                     27          4
+Cloud Patterns                         36          5
+Mice Tumors                            65          8
+Microgravity Plant Growth              75          5
+Cosmic Rays                            80          7
+Sun Spots                              90          2
+Relativity                            104          8
+Micrometeorites                       170          9
+------------------------------------------------------------
+Total Weight : 654 kg
+Total Rating : 52
+
+============================================================
+GREEDY STRATEGY 3 - BEST RATING / WEIGHT
+============================================================
+Experiment                         Weight     Rating
+------------------------------------------------------------
+Seed Viability                          7          4
+Yeast Fermentation                     27          4
+Cloud Patterns                         36          5
+Mice Tumors                            65          8
+Cosmic Rays                            80          7
+Relativity                            104          8
+Microgravity Plant Growth              75          5
+Micrometeorites                       170          9
+Sun Spots                              90          2
+------------------------------------------------------------
+Total Weight : 654 kg
+Total Rating : 52
+
+
+============================================================
+BRUTE FORCE RESULTS - TOP 3 SOLUTIONS
+============================================================
+
+
+RANK 1
+------------------------------------------------------------
+Cloud Patterns                 Weight: 36 kg  Rating: 5
+Binary Stars                   Weight: 203 kg  Rating: 8
+Relativity                     Weight: 104 kg  Rating: 8
+Seed Viability                 Weight: 7 kg  Rating: 4
+Mice Tumors                    Weight: 65 kg  Rating: 8
+Micrometeorites                Weight: 170 kg  Rating: 9
+Cosmic Rays                    Weight: 80 kg  Rating: 7
+Yeast Fermentation             Weight: 27 kg  Rating: 4
+------------------------------------------------------------
+Total Weight: 692 kg
+Total Rating: 53
+>>> OPTIMAL SOLUTION <<<
+
+
+RANK 2
+------------------------------------------------------------
+Cloud Patterns                 Weight: 36 kg  Rating: 5
+Relativity                     Weight: 104 kg  Rating: 8
+Seed Viability                 Weight: 7 kg  Rating: 4
+Sun Spots                      Weight: 90 kg  Rating: 2
+Mice Tumors                    Weight: 65 kg  Rating: 8
+Microgravity Plant Growth      Weight: 75 kg  Rating: 5
+Micrometeorites                Weight: 170 kg  Rating: 9
+Cosmic Rays                    Weight: 80 kg  Rating: 7
+Yeast Fermentation             Weight: 27 kg  Rating: 4
+------------------------------------------------------------
+Total Weight: 654 kg
+Total Rating: 52
+
+
+RANK 3
+------------------------------------------------------------
+Cloud Patterns                 Weight: 36 kg  Rating: 5
+Solar Power                    Weight: 188 kg  Rating: 6
+Relativity                     Weight: 104 kg  Rating: 8
+Seed Viability                 Weight: 7 kg  Rating: 4
+Mice Tumors                    Weight: 65 kg  Rating: 8
+Micrometeorites                Weight: 170 kg  Rating: 9
+Cosmic Rays                    Weight: 80 kg  Rating: 7
+Yeast Fermentation             Weight: 27 kg  Rating: 4
+------------------------------------------------------------
+Total Weight: 677 kg
+Total Rating: 51
+
+
+============================================================
+DYNAMIC PROGRAMMING SOLUTION
+============================================================
+Cloud Patterns                 Weight: 36 kg  Rating: 5
+Binary Stars                   Weight: 203 kg  Rating: 8
+Relativity                     Weight: 104 kg  Rating: 8
+Seed Viability                 Weight: 7 kg  Rating: 4
+Mice Tumors                    Weight: 65 kg  Rating: 8
+Micrometeorites                Weight: 170 kg  Rating: 9
+Cosmic Rays                    Weight: 80 kg  Rating: 7
+Yeast Fermentation             Weight: 27 kg  Rating: 4
+------------------------------------------------------------
+Total Weight: 692 kg
+Total Rating: 53
+
+
+======================================================================
+FINAL COMPARISON SUMMARY
+======================================================================
+Strategy                                Weight          Rating
+----------------------------------------------------------------------
+Highest Rating                             680              35
+Lightest                                   654              52
+Ratio                                      654              52
+Brute Force Optimal                        692              53
+Dynamic Programming                        692              53
+----------------------------------------------------------------------
+Best Greedy Strategy: Lightest
+Optimal Rating: 53
+
+Program Completed Successfully
+
+
+** Process exited - Return Code: 0 **
