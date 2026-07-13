@@ -1,0 +1,85 @@
+Programming Project 3
+Knapsack Problem
+Pseudocode and Design Notes
+
+
+------------------------------------------------
+Greedy Algorithms
+------------------------------------------------
+
+Highest Rating First:
+
+1. Sort experiments by rating from highest to lowest.
+2. Start with empty payload.
+3. Add experiments while total weight is less than or equal to 700 kg.
+4. Return selected experiments, total weight, and total rating.
+
+
+Lightest Weight First:
+
+1. Sort experiments by weight from smallest to largest.
+2. Start with empty payload.
+3. Add experiments while the weight limit allows.
+4. Return selected experiments.
+
+
+Best Rating-to-Weight Ratio:
+
+1. Calculate rating / weight for every experiment.
+2. Sort experiments by highest ratio.
+3. Select experiments until reaching the weight limit.
+4. Return selected experiments.
+
+
+------------------------------------------------
+Brute Force Algorithm
+------------------------------------------------
+
+1. Generate every possible subset of experiments.
+2. Calculate total weight and rating for each subset.
+3. Remove subsets where weight is greater than 700 kg.
+4. Sort remaining subsets by rating.
+5. Return the top three highest-rated solutions.
+
+
+------------------------------------------------
+Dynamic Programming Algorithm
+------------------------------------------------
+
+1. Create a table where rows represent experiments
+   and columns represent possible weight capacities.
+
+2. For each experiment:
+      a. Exclude the experiment.
+      b. Include the experiment if weight allows.
+
+3. Store the choice with the highest rating.
+
+4. Backtrack through the table to identify
+   the selected experiments.
+
+
+------------------------------------------------
+Testing Plan
+------------------------------------------------
+
+Test 1:
+Run all algorithms using the provided 12 experiments.
+
+Expected:
+All strategies should produce valid payloads
+with weight <= 700 kg.
+
+
+Test 2:
+Compare greedy solutions against brute force.
+
+Expected:
+Brute force should always produce the optimal solution.
+
+
+Test 3:
+Compare Dynamic Programming results with brute force.
+
+Expected:
+Both should produce the same optimal rating.
