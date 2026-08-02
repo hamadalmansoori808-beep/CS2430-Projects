@@ -1,0 +1,89 @@
+==============================
+Running Strategy A
+==============================
+Strategy: A | Turns: 1000 | Run: 1
+Strategy: A | Turns: 1000 | Run: 2
+Strategy: A | Turns: 1000 | Run: 3
+Strategy: A | Turns: 1000 | Run: 4
+Strategy: A | Turns: 1000 | Run: 5
+Strategy: A | Turns: 1000 | Run: 6
+Strategy: A | Turns: 1000 | Run: 7
+Strategy: A | Turns: 1000 | Run: 8
+Strategy: A | Turns: 1000 | Run: 9
+Strategy: A | Turns: 1000 | Run: 10
+Strategy: A | Turns: 10000 | Run: 1
+Strategy: A | Turns: 10000 | Run: 2
+Strategy: A | Turns: 10000 | Run: 3
+Strategy: A | Turns: 10000 | Run: 4
+Strategy: A | Turns: 10000 | Run: 5
+Strategy: A | Turns: 10000 | Run: 6
+Strategy: A | Turns: 10000 | Run: 7
+Strategy: A | Turns: 10000 | Run: 8
+Strategy: A | Turns: 10000 | Run: 9
+Strategy: A | Turns: 10000 | Run: 10
+Strategy: A | Turns: 100000 | Run: 1
+Strategy: A | Turns: 100000 | Run: 2
+Strategy: A | Turns: 100000 | Run: 3
+Strategy: A | Turns: 100000 | Run: 4
+Strategy: A | Turns: 100000 | Run: 5
+Strategy: A | Turns: 100000 | Run: 6
+Strategy: A | Turns: 100000 | Run: 7
+Strategy: A | Turns: 100000 | Run: 8
+Strategy: A | Turns: 100000 | Run: 9
+Strategy: A | Turns: 100000 | Run: 10
+Strategy: A | Turns: 1000000 | Run: 1
+Strategy: A | Turns: 1000000 | Run: 2
+Strategy: A | Turns: 1000000 | Run: 3
+Strategy: A | Turns: 1000000 | Run: 4
+Strategy: A | Turns: 1000000 | Run: 5
+Strategy: A | Turns: 1000000 | Run: 6
+Strategy: A | Turns: 1000000 | Run: 7
+Strategy: A | Turns: 1000000 | Run: 8
+Strategy: A | Turns: 1000000 | Run: 9
+Strategy: A | Turns: 1000000 | Run: 10
+
+==============================
+Running Strategy B
+==============================
+Strategy: B | Turns: 1000 | Run: 1
+Strategy: B | Turns: 1000 | Run: 2
+Strategy: B | Turns: 1000 | Run: 3
+Strategy: B | Turns: 1000 | Run: 4
+Strategy: B | Turns: 1000 | Run: 5
+Strategy: B | Turns: 1000 | Run: 6
+Strategy: B | Turns: 1000 | Run: 7
+Strategy: B | Turns: 1000 | Run: 8
+Strategy: B | Turns: 1000 | Run: 9
+Strategy: B | Turns: 1000 | Run: 10
+Strategy: B | Turns: 10000 | Run: 1
+Strategy: B | Turns: 10000 | Run: 2
+Strategy: B | Turns: 10000 | Run: 3
+Strategy: B | Turns: 10000 | Run: 4
+Strategy: B | Turns: 10000 | Run: 5
+Strategy: B | Turns: 10000 | Run: 6
+Strategy: B | Turns: 10000 | Run: 7
+Strategy: B | Turns: 10000 | Run: 8
+Strategy: B | Turns: 10000 | Run: 9
+Strategy: B | Turns: 10000 | Run: 10
+Strategy: B | Turns: 100000 | Run: 1
+Strategy: B | Turns: 100000 | Run: 2
+Strategy: B | Turns: 100000 | Run: 3
+Strategy: B | Turns: 100000 | Run: 4
+Strategy: B | Turns: 100000 | Run: 5
+Strategy: B | Turns: 100000 | Run: 6
+Strategy: B | Turns: 100000 | Run: 7
+Strategy: B | Turns: 100000 | Run: 8
+Strategy: B | Turns: 100000 | Run: 9
+Strategy: B | Turns: 100000 | Run: 10
+Strategy: B | Turns: 1000000 | Run: 1
+Strategy: B | Turns: 1000000 | Run: 2
+Strategy: B | Turns: 1000000 | Run: 3
+Strategy: B | Turns: 1000000 | Run: 4
+Strategy: B | Turns: 1000000 | Run: 5
+Strategy: B | Turns: 1000000 | Run: 6
+Strategy: B | Turns: 1000000 | Run: 7
+Strategy: B | Turns: 1000000 | Run: 8
+Strategy: B | Turns: 1000000 | Run: 9
+Strategy: B | Turns: 1000000 | Run: 10
+
+Simulation Completed Successfully
